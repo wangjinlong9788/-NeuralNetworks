@@ -1,4 +1,4 @@
-# -NeuralNetworks
+# Neural Networks
 Classifying Handwritten Digits with Neural Networks
 
 ## Train both a linear model and a neural network to classify handwritten digits from the classic MNIST data set
